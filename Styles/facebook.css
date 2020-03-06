@@ -1,0 +1,32 @@
+body{
+	background-color:rgb(237 ,240 ,245);
+}
+.section{
+	background-color:#3d58a1;
+	height:80px;
+	border-bottom: 1px solid #133783;
+}
+.image{
+	margin: 20px;}
+
+.fb_form_one{
+font-size: 0.8rem;
+color:#fff;
+}
+#btn_login{
+	background-color: blue;
+	color:white;
+	border: none;
+}
+#fb_table_one{
+	border-spacing: 2rem 0rem; 
+}
+.footerlink{
+	color: #3877ca
+}
+#add-lang{
+	border: 1px solid;
+	font-weight: bold;
+	color: grey
+	font-size:larger;
+}
